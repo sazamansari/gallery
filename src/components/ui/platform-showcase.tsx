@@ -25,17 +25,17 @@ const COLUMN_1_ITEMS = [
   {
     title: 'Cloud DevOps & Engineering Lead',
     badge: 'Md Shadab Azam Ansari',
-    image: encodeURI('/images/md shadab azam ansari1.jpeg'),
+    image: encodeURI('/images/Md Shadab Azam Ansari1.jpeg'),
   },
   {
     title: 'Developer Portfolio Experience',
     badge: 'Production Web App',
-    image: encodeURI('/images/portfolio-gallery-1.png'),
+    image: encodeURI('/images/Md Shadab Azam Ansari4.png'),
   },
   {
     title: 'Cloud Architecture & Infrastructure',
     badge: 'AWS & Microservices',
-    image: encodeURI('/images/portfolio-gallery-2.png'),
+    image: encodeURI('/images/Md Shadab Azam Ansari5.png'),
   },
   {
     title: 'Distributed System Topology',
@@ -48,7 +48,7 @@ const COLUMN_2_ITEMS = [
   {
     title: 'Cloud Architect & Technical Trainer',
     badge: 'Md Shadab Azam Ansari',
-    image: encodeURI('/images/md shadab azam ansari2.jpeg'),
+    image: encodeURI('/images/Md Shadab Azam Ansari2.jpeg'),
   },
   {
     title: 'AWS Certified DevOps Engineer Pro',
@@ -58,12 +58,12 @@ const COLUMN_2_ITEMS = [
   {
     title: 'Full-Stack Portfolio Showcase',
     badge: 'Interactive UI & Features',
-    image: encodeURI('/images/portfolio-gallery-4.png'),
+    image: encodeURI('/images/Md Shadab Azam Ansari7.png'),
   },
   {
     title: 'Modern Developer Workflow',
     badge: 'Terminal & IaC',
-    image: encodeURI('/images/portfolio-gallery-5.png'),
+    image: encodeURI('/images/Md Shadab Azam Ansari8.png'),
   },
 ];
 
@@ -71,7 +71,7 @@ const COLUMN_3_ITEMS = [
   {
     title: 'Infrastructure as Code Specialist',
     badge: 'Md Shadab Azam Ansari',
-    image: encodeURI('/images/md shadab azam ansari3.jpeg'),
+    image: encodeURI('/images/Md Shadab Azam Ansari3.jpeg'),
   },
   {
     title: 'Microsoft Certified DevOps Expert',
@@ -81,12 +81,12 @@ const COLUMN_3_ITEMS = [
   {
     title: 'System Performance & Observability',
     badge: 'Metrics & Cloud Monitoring',
-    image: encodeURI('/images/portfolio-gallery-7.png'),
+    image: encodeURI('/images/Md Shadab Azam Ansari10.png'),
   },
   {
     title: 'Container & Kubernetes Clusters',
     badge: 'High Availability Production',
-    image: encodeURI('/images/portfolio-gallery-9.png'),
+    image: encodeURI('/images/Md Shadab Azam Ansari12.png'),
   },
 ];
 

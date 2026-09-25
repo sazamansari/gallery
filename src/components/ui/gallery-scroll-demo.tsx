@@ -10,26 +10,26 @@ import {
 import { ExternalLink, Layers, Terminal, Sparkles, Image as ImageIcon } from 'lucide-react';
 
 const IMAGES_1 = [
-  encodeURI('/images/md shadab azam ansari1.jpeg'),
-  encodeURI('/images/portfolio-gallery-1.png'),
-  encodeURI('/images/portfolio-gallery-2.png'),
-  encodeURI('/images/portfolio-gallery-3.png'),
+  encodeURI('/images/Md Shadab Azam Ansari1.jpeg'),
+  encodeURI('/images/Md Shadab Azam Ansari4.png'),
+  encodeURI('/images/Md Shadab Azam Ansari5.png'),
+  encodeURI('/images/Md Shadab Azam Ansari6.png'),
   encodeURI('/images/netflix-architecture.png'),
 ];
 
 const IMAGES_2 = [
-  encodeURI('/images/md shadab azam ansari2.jpeg'),
-  encodeURI('/images/portfolio-gallery-4.png'),
-  encodeURI('/images/portfolio-gallery-5.png'),
-  encodeURI('/images/portfolio-gallery-6.png'),
+  encodeURI('/images/Md Shadab Azam Ansari2.jpeg'),
+  encodeURI('/images/Md Shadab Azam Ansari7.png'),
+  encodeURI('/images/Md Shadab Azam Ansari8.png'),
+  encodeURI('/images/Md Shadab Azam Ansari9.png'),
   '/certs/aws-devops-pro.png',
 ];
 
 const IMAGES_3 = [
-  encodeURI('/images/md shadab azam ansari3.jpeg'),
-  encodeURI('/images/portfolio-gallery-7.png'),
-  encodeURI('/images/portfolio-gallery-8.png'),
-  encodeURI('/images/portfolio-gallery-9.png'),
+  encodeURI('/images/Md Shadab Azam Ansari3.jpeg'),
+  encodeURI('/images/Md Shadab Azam Ansari10.png'),
+  encodeURI('/images/Md Shadab Azam Ansari11.png'),
+  encodeURI('/images/Md Shadab Azam Ansari12.png'),
   '/certs/ms-certified-expert.png',
 ];
 
